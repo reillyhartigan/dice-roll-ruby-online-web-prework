@@ -6,5 +6,5 @@
 # Bonus
 
 def roll
-  return [1...6].sample
+  return (1...6).sample
 end
