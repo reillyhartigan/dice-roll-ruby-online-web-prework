@@ -5,6 +5,7 @@
 
 # Bonus
 
-def roll
-  return (1...6).sample
+def roll(array)
+  array = (1...6)
+  return array.sample
 end
